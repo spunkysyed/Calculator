@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.96a90763.css",
+    "main.js": "/Calculator/static/js/main.bbd3e6ea.js",
+    "static/media/rimouski sb.otf": "/Calculator/static/media/rimouski sb.342cc474b57a5fe6fc2e.otf",
+    "index.html": "/Calculator/index.html",
+    "main.96a90763.css.map": "/Calculator/static/css/main.96a90763.css.map",
+    "main.bbd3e6ea.js.map": "/Calculator/static/js/main.bbd3e6ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a90763.css",
+    "static/js/main.bbd3e6ea.js"
+  ]
+}
